@@ -1,8 +1,12 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "My intro",
       "topics": [
+        {
+          "title": "Topic 1",
+          "slug": "slug"
+        },
         {
           "title": "Getting started",
           "slug": "getting-started"
